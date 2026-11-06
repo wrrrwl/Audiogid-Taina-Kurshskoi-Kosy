@@ -1,0 +1,1 @@
+Аудиогид «Тайна Куршской косы»\n\nЗагрузите содержимое этой папки в отдельный репозиторий GitHub.\nВ Settings → Pages выберите Deploy from a branch, main, /(root).\nФайлы index.html, style.css, script.js и папки audio, images должны находиться в корне репозитория.\n
